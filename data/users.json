@@ -2,23 +2,45 @@
 [
   {
     "id": "1",
-    "name": "Коля",
-    "email": "qwerty@gmail.com"
+    "name": "Anton",
+    "email": "anton@gmail.com",
+    "gender": "male"
   },
   {
     "id": "2",
-    "name": "Вася",
-    "email": "abc@gmail.com"
+    "name": "Dmitriy",
+    "email": "dmitriy@gmail.com",
+    "gender": "male"
   },
   {
     "id": "3",
-    "name": "Федя",
-    "email": "def@gmail.com"
+    "name": "Daniil",
+    "email": "daniil@gmail.com",
+    "gender": "male"
   },
   {
     "id": "4",
-    "name": "Юра",
-    "email": "xyz@gmail.com"
+    "name": "Roman",
+    "email": "roman@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": "5",
+    "name": "Ivan",
+    "email": "ivan@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": "6",
+    "name": "Veronika",
+    "email": "roman@gmail.com",
+    "gender": "female"
+  },
+  {
+    "id": "7",
+    "name": "Alexander",
+    "email": "alexander@gmail.com",
+    "gender": "male"
   }
 ]
 }
